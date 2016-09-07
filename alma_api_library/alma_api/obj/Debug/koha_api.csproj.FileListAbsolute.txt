@@ -1,0 +1,4 @@
+E:\users\reeset\marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\bin\Debug\koha_api.dll
+E:\users\reeset\marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\bin\Debug\koha_api.pdb
+E:\users\reeset\marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\obj\Debug\koha_api.dll
+E:\users\reeset\marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\obj\Debug\koha_api.pdb

@@ -1,0 +1,4 @@
+C:\Users\reese.2179\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\alma_api_library\alma_api_library\koha_api\bin\Release\alma_api.dll
+C:\Users\reese.2179\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\alma_api_library\alma_api_library\koha_api\bin\Release\alma_api.pdb
+C:\Users\reese.2179\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\alma_api_library\alma_api_library\koha_api\obj\Release\alma_api.dll
+C:\Users\reese.2179\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\alma_api_library\alma_api_library\koha_api\obj\Release\alma_api.pdb

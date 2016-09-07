@@ -1,0 +1,12 @@
+E:\users\reeset\marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\bin\Release\koha_api.dll
+E:\users\reeset\marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\bin\Release\koha_api.pdb
+E:\users\reeset\marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\obj\Release\koha_api.dll
+E:\users\reeset\marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\obj\Release\koha_api.pdb
+C:\Users\reeset\Dropbox\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\bin\Release\koha_api.dll
+C:\Users\reeset\Dropbox\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\bin\Release\koha_api.pdb
+C:\Users\reeset\Dropbox\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\obj\Release\koha_api.dll
+C:\Users\reeset\Dropbox\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\obj\Release\koha_api.pdb
+C:\Users\reese.2179\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\bin\Release\koha_api.dll
+C:\Users\reese.2179\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\bin\Release\koha_api.pdb
+C:\Users\reese.2179\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\obj\Release\koha_api.dll
+C:\Users\reese.2179\OneDrive\Symlinked marcedit\net_marcedit\C#\MProgram\MarcEdit\Components\koha_api_lib\koha_api\koha_api\obj\Release\koha_api.pdb
